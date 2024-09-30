@@ -1,2 +1,2 @@
-# docker-microsoftservice-project
-Build &amp; Run Microservice app
+### docker-microsoftservice-project
+Build & Run Microservice app
